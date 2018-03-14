@@ -1,0 +1,7 @@
+﻿  Lab2.cpp
+c:\users\vincent ha\documents\visual studio 2017\projects\lab2\lab2\lab2.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\vincent ha\documents\visual studio 2017\projects\lab2\lab2\lab2.cpp(425): warning C4129: '/': unrecognized character escape sequence
+c:\users\vincent ha\documents\visual studio 2017\projects\lab2\lab2\lab2.cpp(472): warning C4018: '<': signed/unsigned mismatch
+c:\users\vincent ha\documents\visual studio 2017\projects\lab2\lab2\lab2.cpp(560): warning C4018: '<': signed/unsigned mismatch
+  Lab2.vcxproj -> C:\Users\Vincent Ha\Documents\Visual Studio 2017\Projects\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Vincent Ha\Documents\Visual Studio 2017\Projects\Lab2\Debug\Lab2.pdb (Partial PDB)
